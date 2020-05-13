@@ -9,6 +9,8 @@ def api_gh_msg():
     if request.headers['Content-Type'] == 'application/json':
         my_info = json.dumps(request.json)
         print (my_info)
+        return (my_info)
+        
         
 
 if __name__ == '__main__':
