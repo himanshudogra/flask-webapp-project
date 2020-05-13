@@ -3,6 +3,8 @@ this is for web application based on flask.
 
 
 Step1. Run the python code inside python diretory.
+Note: make sure you have flask module already install, if not then install it using 
+      $ pip3 install flask
 
 Step2. Download the ngrok from https://ngrok.com/download and run it parallely. This will give the forwarding tunnel DNS which will be available to public.
 
