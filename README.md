@@ -2,7 +2,7 @@
 this is for web application based on flask.
 
 
-Step1. Run the python code inside python directory of this repo.
+Step1. Run the python script github-webapp.py.
 
 Note: make sure you have flask module already install, if not then install it using 
       $ pip3 install flask
